@@ -7,7 +7,7 @@
 </p>
 
 <p align="center"><br/>
-  <a href="https://dam450.github.io/git-favorites/">
+  <a href="https://dam450.github.io/boardingpass/">
     <img src="./.github/preview.png" />
   </a>
 </p>
