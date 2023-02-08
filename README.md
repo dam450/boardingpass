@@ -1,6 +1,6 @@
 # #boraCodar - Desafio 6
 
-Desafio proposto no desafio 6 do #boraCodar da Rocketseat, onde é proposto que se desenvolva uma tela onde um usuário visualiza um cartão de embarque. 
+Desafio proposto no #boraCodar da Rocketseat, onde é solicitado que se desenvolva uma tela onde um usuário visualiza um cartão de embarque. 
 ## 🎨 Layout
 
 Figma do projeto
