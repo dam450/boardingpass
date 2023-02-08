@@ -36,11 +36,10 @@ header {
 h1 {
   font-weight: 500;
   font-size: 20px;
-
   letter-spacing: -0.02em;
 
   color: var(--text-white-900);
-  margin-bottom: 2rem;
+  margin: 2rem 0;
 }
 
 span {
@@ -119,6 +118,7 @@ strong {
 .left {
   align-items: flex-start;
 }
+
 .right {
   align-items: flex-end;
 }
@@ -172,6 +172,7 @@ strong {
   letter-spacing: -0.02em;
 
 }
+
 .bottom {
   background-image: url(./assets/bottom.svg);
 
@@ -204,7 +205,7 @@ strong {
 }
 
 .warning {
-  margin-top: 2rem;
+  margin: 2rem 0;
   width: 60%;
   font-family: 'Rubik';
   font-style: normal;
